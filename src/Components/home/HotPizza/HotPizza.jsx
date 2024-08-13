@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap';
 import pizzImg1 from '../../../assets/product_2.2.jpg'
