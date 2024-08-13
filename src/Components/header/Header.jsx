@@ -23,7 +23,7 @@ const Header = () => {
       <Container>
         <nav className="nav">
           {/* Logo */}
-          <Link to="/" className="nav__logo"><img src={Logo__img} alt="Logo__img" />Tast Treat</Link>
+          <Link to="/" className="nav__logo"><img src={Logo__img} alt="Logo__img" />Taste Treat</Link>
 
           {/* nav list (menu) */}
           <div className={toggle ? 'nav__menu show-menu' : 'nav__menu'}>
