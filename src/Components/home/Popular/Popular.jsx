@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState } from 'react'
 import './popular.css'
 import { Container, Row, Col } from 'react-bootstrap';

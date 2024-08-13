@@ -1,5 +1,5 @@
 import React from 'react'
-import { UilCheckCircle } from '@iconscout/react-unicons'
+// import { UilCheckCircle } from '@iconscout/react-unicons'
 import { Container, Row, Col } from 'react-bootstrap'
 import testimonialImg from '../../../assets/network.png'
 import profileImg from '../../../assets/ava-1.jpg'

@@ -65,7 +65,7 @@ export const Data = [
         id: 14,
         image: bread4,
         title: "Bread",
-        title: "Loaf Bread",
+        name: "Loaf Bread",
     }, {
         id: 9,
         image: pizza3,
